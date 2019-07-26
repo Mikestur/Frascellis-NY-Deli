@@ -1,2 +1,2 @@
 # Frascellis-NY-DeliAbo
-This project is a website for a Deli. It is built in HTML, CSS and Javascript and requires nothing additional to run. The About us and Menu pages are still under construction and I will continue with the project post project date. 
+This project is a website for a Deli. It is built in HTML, CSS and Javascript and requires nothing additional to run. The About us and Menu pages are still under construction and I will continue with the project post project date. The menu page was to feature a javascript function that hides and shows the menu items based on category selected but I ran out of time to get it working with the way I designed my grid layout. I will be returning to the project. 
